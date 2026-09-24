@@ -1,2 +1,4 @@
-# arduino-nano-robot-arm
-We building a robot arm controlled by an Arduino Nano. This repository will hold the code, wiring notes, and progress as I build it.
+Arduino Nano Robotic Arm
+A multi-axis robotic arm designed and programmed around an Arduino Nano. The project explores embedded C/C++, servo control, power distribution, kinematics, and real-time motion control.
+
+The goal is to design the electronics, firmware, and control algorithms from the ground up while documenting the engineering process.
